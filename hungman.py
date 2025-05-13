@@ -1,6 +1,6 @@
 import random
 
-print("WELCOME TO HUNGAN GAME!!!!")
+print("WELCOME TO HUNGMAN GAME!!!!")
 
 list=["suryaprasad",'priyadarshini','lokesh','Ningamani','chandrakala']
 word=random.choice(list)
