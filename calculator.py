@@ -8,6 +8,7 @@ def opt(f):
         '*':f*s,
         '/':f/s
     }
+    # I am confident that the user will enter a valid operator, so I am not handling the case of invalid operator here.
     print(f"{f} {op} {s} = {operation[op]}")
 
 
